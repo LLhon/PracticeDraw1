@@ -3,4 +3,15 @@
     <color name="colorPrimary">#3F51B5</color>
     <color name="colorPrimaryDark">#303F9F</color>
     <color name="colorAccent">#FF4081</color>
+
+    <color name="rect_green">#67a64e</color>
+    <color name="draw_1">#eef73a</color>
+    <color name="draw_2">#2a97df</color>
+    <color name="version_m">#f9a551</color>
+    <color name="version_f">#1f7471</color>
+    <color name="version_g">#9052be</color>
+    <color name="version_i">#949494</color>
+    <color name="version_j">#177e70</color>
+    <color name="version_k">#199aef</color>
+    <color name="version_l">#e7490a</color>
 </resources>

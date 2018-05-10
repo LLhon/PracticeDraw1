@@ -5,6 +5,7 @@ import android.graphics.Canvas;
 import android.support.annotation.Nullable;
 import android.util.AttributeSet;
 import android.view.View;
+import com.hencoder.hencoderpracticedraw1.R;
 
 public class Practice1DrawColorView extends View {
 
@@ -26,5 +27,7 @@ public class Practice1DrawColorView extends View {
 
 //        练习内容：使用 canvas.drawColor() 方法把 View 涂成黄色
 //        黄色： Color.YELLOW
+
+        canvas.drawColor(getResources().getColor(R.color.draw_1));
     }
 }
